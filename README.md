@@ -10,9 +10,7 @@
 
  <div style="display: inline">
    <h3>Estudando:</h3>
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />&nbsp;&nbsp;&nbsp;
-  &nbsp;&nbsp;<img width='50' height='50' src="https://www.svgrepo.com/show/376344/python.svg" />&nbsp;&nbsp;
+  &nbsp;&nbsp;<img width='90' height='90' src="https://www.svgrepo.com/show/376344/python.svg" />&nbsp;&nbsp;
 </div>
 
 ##
