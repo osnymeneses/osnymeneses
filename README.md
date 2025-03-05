@@ -3,7 +3,7 @@
 
 
 - 👨‍🎓 Cursando ADS - *(Análise e Desenvolvimento de Sistemas)*
-- 💻 Além da Graduação, estudo também **JavaScript, HTML, CSS** e outras Linguagens para o Front-End.
+- 💻 Além da Graduação, estudo também **Python** para Análise de Dados.
 - 👫 Sou Casado.
 - ⌛ Ainda não trabalho na área, mas estudo pra isso!
 - 💬 Disposto a aprender a cada dia.
